@@ -1,7 +1,7 @@
-# jogo-da-forca
-Jogo da forca em C.
+# Basic Hangman Game
+Hangman game in C language.
 
-Nesse programa é possível adicionar palavras no banco de dados. 
-No momento, o banco de dados possui apenas palavras relacionadas a frutas. 
+You can add words on txt file.
+Only fruit words on txt at moment.
 
-• Falta adicionar detalhes visuais ao programa.
+• Missing visual appearence.
